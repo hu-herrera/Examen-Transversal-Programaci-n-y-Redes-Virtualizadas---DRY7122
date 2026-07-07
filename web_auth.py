@@ -18,10 +18,10 @@ PUERTO = 5800
 
 # Integrantes del grupo (usuarios)
 INTEGRANTES = [
-    "Hugo Herrera",
-    "Brandon Varas",
-    "Ignacio Vazques",
-    "Gabriel Ponce"
+    "Hugo Herrera"
+    
+    
+    
 ]
 
 # Contraseña predeterminada (puedes cambiarla)
