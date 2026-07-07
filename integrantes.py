@@ -1,6 +1,6 @@
 # Script para mostrar los integrantes del grupo
 integrantes = [
-    "Herrera Huerta",
+    "Herrera Herrera",
     "Nombre2 Apellido2",
     "Nombre3 Apellido3"
 ]
